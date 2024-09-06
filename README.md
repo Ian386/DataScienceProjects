@@ -56,8 +56,7 @@ A video tutorial was also created to guide users through navigating Tableau and 
 This was a very informative and insightful experience which definitely boosted my confidence and fueled my passion for this field even more. Stayed for the next version where we dive even deeper into developing a recommendation system based on user preferences.
 
 ## CRUCIAL!!
-Here is my link to to the Google Drive containing the videos for this project(Too large to add): [Link to Google Drive]([https://drive.google.com/drive/folders/1VnrCuxGosOU8cAqZeag0ZlyqOP3NwEYU?usp=drive_link](https://drive.google.com/drive/folders/1VnrCuxGosOU8cAqZeag0ZlyqOP3NwEYU?usp=sharing))
-
+Here is my link to to the Google Drive containing the videos for this project(Too large to add): [Link to Google Drive](https://drive.google.com/drive/folders/1VnrCuxGosOU8cAqZeag0ZlyqOP3NwEYU?usp=sharing)
 
 
 
